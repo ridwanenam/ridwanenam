@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ridwan Triputra</h1>
 <h3 align="center">A passionate Robotics and Electronics</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/4Mw4.gif">
-
+<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/4Mw4.gif](https://i.gifer.com/4Mw4.gif)">
 
 - 🌱 I’m currently learning **Game Development**
 
