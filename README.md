@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ridwan Triputra</h1>
 <h3 align="center">A passionate Robotics and Electronics</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/4Mw4.gif](https://i.gifer.com/4Mw4.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Game Development**
 
@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/coconatsu_727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coconatsu_727" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ascendedkitten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ascendedkitten" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AscendedKitten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ascendedkitten" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
