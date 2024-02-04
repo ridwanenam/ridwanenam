@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi :), I'm Ridwan Triputra</h1>
 <h3 align="center">Me like Technology and Design</h3>
+<h4 align="center">Like Sports and definitely Gaming</h4>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Electronics and so on**
