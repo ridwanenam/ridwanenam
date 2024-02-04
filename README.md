@@ -1,10 +1,10 @@
 [![MasterHead](https://gifdb.com/images/high/anime-glittery-blue-sky-bbxetmsyq2tpr5cq.gif)](https://ridwanenam.godaddysites.com/)
 
-<h1 align="center">Hi 👋, I'm Ridwan Triputra</h1>
-<h3 align="center">A passionate Robotics and Electronics</h3>
+<h1 align="center">Hi :), I'm Ridwan Triputra</h1>
+<h3 align="center">Technology and Design</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **Electronics and so on**
 
 - 📫 How to reach me **kumbtheghost2@gmail.com**
 
