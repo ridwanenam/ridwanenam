@@ -1,7 +1,7 @@
 [![MasterHead](https://gifdb.com/images/high/anime-glittery-blue-sky-bbxetmsyq2tpr5cq.gif)](https://ridwanenam.godaddysites.com/)
 
 <h1 align="center">Hi lol :)</h1>
-<h3 align="center">Machine Learning</h3>
+<h3 align="center">Artificial Intelligence</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
