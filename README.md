@@ -39,7 +39,7 @@ else:
 <!-- For more icons: https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/ridwanenam/ridwanenam/assets/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/ridwanenam/ridwanenam/assets/steam.png" alt="steam"  width="100" hight="50">
-<img src="https://github.com/ridwanenam/ridwanenam/assets/ai.png" alt="ai" width="90" hight="50">
+<img src="[https://github.com/ridwanenam/ridwanenam/assets/ai.png](https://github.com/ridwanenam/ridwanenam/blob/main/assets/steam.png)" width="90" hight="50">
 </p>
 
 </br>
