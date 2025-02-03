@@ -3,7 +3,7 @@
 </br>
 
 <div align="center">
-<img height="200" width="220" alt="GIF" align="left" src="https://github.com/ridwanenam/readme/assets/cat-space.gif">
+<img height="200" width="220" src="https://raw.githubusercontent.com/ridwanenam/ridwanenam/assets/cat-space.gif" alt="GIF">
 </div>
 
 </br>
@@ -37,9 +37,9 @@ else:
 <p align="left">
 
 <!-- For more icons: https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/ridwanenam/readme/assets/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/ridwanenam/readme/assets/steam.png" alt="steam"  width="100" hight="50">
-<img src="https://github.com/ridwanenam/readme/assets/ai.png" alt="ai" width="90" hight="50">
+<img src="https://github.com/ridwanenam/ridwanenam/assets/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/ridwanenam/ridwanenam/assets/steam.png" alt="steam"  width="100" hight="50">
+<img src="https://github.com/ridwanenam/ridwanenam/assets/ai.png" alt="ai" width="90" hight="50">
 </p>
 
 </br>
