@@ -3,7 +3,8 @@
 </br>
 
 <div align="center">
-<img src="assets/cat-space.gif" alt="nyan_cat" width="600" height="420">
+<img src="assets/cat-space.gif" alt="nyan_cat" width="400" height="220">
+<img src="assets/giphy.gif" alt="nyan_cat" width="400" height="220">
 </div>
 
 </br>
