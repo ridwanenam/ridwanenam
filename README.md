@@ -37,9 +37,9 @@ else:
 <p align="left">
 
 <!-- For more icons: https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/ridwanenam/readme/assets/cat-space.gif" alt="python" width="120" hight="50">
-<img src="https://github.com/ridwanenam/readme/assets/cat-space.gif" alt="steam"  width="100" hight="50">
-<img src="https://github.com/ridwanenam/readme/assets/cat-space.gif" alt="AI" width="90" hight="50">
+<img src="https://github.com/ridwanenam/readme/assets/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/ridwanenam/readme/assets/steam.png" alt="steam"  width="100" hight="50">
+<img src="https://github.com/ridwanenam/readme/assets/ai.png" alt="ai" width="90" hight="50">
 </p>
 
 </br>
