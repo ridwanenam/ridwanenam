@@ -3,7 +3,10 @@
 </br>
 
 <div align="center">
-<img height="200" width="220" alt="GIF" align="center" src="https://github.com/ridwanenam/readme/assets/cat-space.gif">
+<img height="200" width="220" alt="GIF" align="left" src="https://github.com/ridwanenam/readme/assets/cat-space.gif">
+<img height="200" width="220" alt="GIF" align="center" src="https://github.com/ridwanenam/readme/assets/giphy.gif">
+<img height="200" width="220" src="https://raw.githubusercontent.com/ridwanenam/readme/assets/cat-space.gif" alt="GIF">
+
 </div>
 
 </br>
