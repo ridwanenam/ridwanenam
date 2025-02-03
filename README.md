@@ -3,7 +3,7 @@
 </br>
 
 <div align="center">
-<img height="200" width="220" src="https://raw.githubusercontent.com/ridwanenam/ridwanenam/assets/cat-space.gif" alt="GIF">
+<img src="assets/cat-space.gif" alt="nyan_cat" width="600" height="420">
 </div>
 
 </br>
@@ -31,15 +31,15 @@ else:
 
 </br>
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools 🛠:
 </br>
 
 <p align="left">
 
 <!-- For more icons: https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/ridwanenam/ridwanenam/assets/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/ridwanenam/ridwanenam/assets/steam.png" alt="steam"  width="100" hight="50">
-<img src="[https://github.com/ridwanenam/ridwanenam/assets/ai.png](https://github.com/ridwanenam/ridwanenam/blob/main/assets/steam.png)" width="90" hight="50">
+<img src="assets/python.png" alt="python" width="120" hight="50">
+<img src="assets/steam.png" alt="steam" width="115" hight="50">
+<img src="assets/ai.png" alt="artificial intelligence" width="92" hight="50">
 </p>
 
 </br>
