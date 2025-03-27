@@ -12,8 +12,6 @@
 
 # About ME ⬇️:
 
-### - Currently Learning Artificial Intelligence.
-
 </br>
 
 ```python
