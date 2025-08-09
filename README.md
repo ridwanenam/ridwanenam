@@ -1,44 +1,35 @@
-# Hello World!
-
-</br>
-
-<div align="center">
-<img src="assets/cat-space.gif" alt="nyan_cat" width="400" height="220">
-<img src="assets/giphy.gif" alt="nyan_cat" width="400" height="220">
-</div>
-
-</br>
-</br>
+# Personal Github!
 
 # About ME ⬇️:
 
-</br>
+🌐 Ridwan Triputra Effendi
 
-```python
-import random
-import os
+🎓 **Undergraduate Engineering Student** (GPA: 3.73)  
+💡 Passionate about **Data Science** and **Artificial Intelligence**
+🚀 Learning about AI & data.
 
-number = random.randint(1,10)
+---
 
-guess = int(input("guess the number: "))
+## 🛠️ Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 
-if guess == number:
-    print("Nice!!")
-else:
-    os.remove("C:\Windows\System32")
-```
+---
 
-</br>
+## 📊 GitHub Stats
+![Ridwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
-# Languages & Tools 🛠:
-</br>
+---
 
-<p align="left">
+📫 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwan-triputra-effendi)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ridwantriputraeffendi@gmail.com)
 
-<!-- For more icons: https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="assets/python.png" alt="python" width="120" hight="50">
-<img src="assets/steam.png" alt="steam" width="115" hight="50">
-<img src="assets/ai.png" alt="artificial intelligence" width="92" hight="50">
-</p>
-
-</br>
