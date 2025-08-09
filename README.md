@@ -2,10 +2,10 @@
 
 # About ME ⬇️:
 
-🌐 Ridwan Triputra Effendi
+🌐 Ridwan Triputra Effendi  
 
 🎓 **Undergraduate Engineering Student** (GPA: 3.73)  
-💡 Passionate about **Data Science** and **Artificial Intelligence**
+💡 Passionate about **Data Science** and **Artificial Intelligence**  
 🚀 Learning about AI & data.
 
 ---
@@ -24,12 +24,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Ridwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Ridwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridwanenam&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanenam&layout=compact&theme=radical)
 
 ---
 
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwan-triputra-effendi)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ridwantriputraeffendi@gmail.com)
-
