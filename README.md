@@ -4,8 +4,8 @@
 
 🌐 Ridwan Triputra Effendi  
 
-🎓 **Undergraduate Engineering Student** (GPA: 3.73)  
-💡 Switch career: **Data Science** and **Artificial Intelligence**  
+🎓 **Undergraduate Engineering Student** (GPA: 3.73/4)  
+💡 Switch career: **Data** and **Artificial Intelligence**  
 🚀 Learning about AI & data.
 
 ---
