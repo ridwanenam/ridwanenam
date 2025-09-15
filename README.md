@@ -6,7 +6,7 @@
 
 🎓 **Undergraduate Engineering Student** (GPA: 3.73/4)  
 💡 Switch career: **Data** and **Artificial Intelligence**  
-🚀 Learning about AI & data.
+🚀 Learning about **AI** & **data**  
 
 ---
 
