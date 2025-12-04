@@ -5,6 +5,7 @@
 🌐 Ridwan Triputra Effendi  
 
 🎓 **Undergraduate Engineering Student**
+
 💡 Switch career: **Data** and **Artificial Intelligence**  
 🚀 Learning about **Data** and **Artificial Intelligence**
 
