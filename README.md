@@ -1,9 +1,7 @@
-# Personal Github!
+# Personal Github
 
-# About ME:
-
+## About Me
 Ridwan Triputra Effendi  
-
 **Undergraduate Engineering Student**
 
 ---
@@ -15,11 +13,11 @@ Ridwan Triputra Effendi
 ---
 
 ## GitHub Stats
-![Ridwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridwanenam&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanenam&layout=compact&theme=radical)
+![Ridwan's GitHub Stats](https://github-readme-stats-five-alpha-99.vercel.app/api?username=ridwanenam&theme=radical) ![Top Langs](https://github-readme-stats-five-alpha-99.vercel.app/api?username=ridwanenam&theme=radical)
+![Ridwan's GitHub Stats](https://github-readme-stats-five-alpha-99.vercel.app/api/top-langs/?username=ridwanenam&theme=radical) ![Top Langs](https://github-readme-stats-five-alpha-99.vercel.app/api/top-langs/?username=ridwanenam&theme=radical)
 
 ---
 
-**Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwan-triputra-effendi)  
+## Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwan-triputra-effendi) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ridwantriputraeffendi@gmail.com)
