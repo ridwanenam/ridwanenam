@@ -13,8 +13,11 @@ Ridwan Triputra Effendi
 ---
 
 ## GitHub Stats
-![Ridwan's GitHub Stats](https://github-readme-stats-five-alpha-99.vercel.app/api?username=ridwanenam&theme=radical) ![Top Langs](https://github-readme-stats-five-alpha-99.vercel.app/api?username=ridwanenam&theme=radical)
-![Ridwan's GitHub Stats](https://github-readme-stats-five-alpha-99.vercel.app/api/top-langs/?username=ridwanenam&theme=radical) ![Top Langs](https://github-readme-stats-five-alpha-99.vercel.app/api/top-langs/?username=ridwanenam&theme=radical)
+![Ridwan's GitHub Stats](https://github-readme-stats-five-alpha-99.vercel.app/api?username=ridwanenam&theme=radical) 
+![Top Langs](https://github-readme-stats-five-alpha-99.vercel.app/api?username=ridwanenam&theme=radical)
+
+![Ridwan's GitHub Stats](https://github-readme-stats-five-alpha-99.vercel.app/api/top-langs/?username=ridwanenam&theme=radical) 
+![Top Langs](https://github-readme-stats-five-alpha-99.vercel.app/api/top-langs/?username=ridwanenam&theme=radical)
 
 ---
 
